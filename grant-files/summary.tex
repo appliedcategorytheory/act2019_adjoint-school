@@ -1,0 +1,80 @@
+\documentclass[12pt]{amsart}
+
+\sloppy
+
+\addtolength{\textwidth}{60pt}
+\addtolength{\oddsidemargin}{-32pt}
+\evensidemargin\oddsidemargin
+
+\setlength{\parskip}{1ex plus 0.5ex minus 0.2ex}
+
+%PACKAGES
+\usepackage{geometry}               
+\geometry{letterpaper}                   
+
+%URL colors
+\usepackage{color}
+\definecolor{myurlcolor}{rgb}{0.6,0,0}
+\definecolor{mycitecolor}{rgb}{0,0,0.8}
+\definecolor{myrefcolor}{rgb}{0,0,0.8}
+\usepackage[bookmarks=false]{hyperref}
+\hypersetup{colorlinks,
+  linkcolor=myrefcolor,
+  citecolor=mycitecolor,
+  urlcolor=myurlcolor}
+
+\newtheorem{thm}{Theorem}
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem{fact}[thm]{Fact}
+\newtheorem{lem}[thm]{Lemma}
+\newtheorem{example}[thm]{Example}
+\newtheorem{defn}[thm]{Definition}
+\newtheorem{prop}[thm]{Proposition}
+\newtheorem{sch}[thm]{Scholium}
+\renewcommand{\AA}{\mathbf{A}}
+\newcommand{\RR}{\mathbb{R}}
+\newcommand{\QQ}{\mathbb{Q}}
+\newcommand{\NN}{\mathbb{N}}
+\newcommand{\CC}{\mathbb{C}}
+\newcommand{\ZZ}{\mathbb{Z}}
+\newcommand{\CM}{\mathrm{CM}}
+\newcommand{\gen}{\mathrm{gen}}
+\newcommand{\maps}{\colon}
+\newcommand{\tensor}{\otimes}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\newcommand {\tuple}[1]{\langle #1 \rangle}
+\newcommand{\define}[1]{{\bf \boldmath{#1}}}
+
+
+%%%%%%%%%% BEGIN DOCUMENT %%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\centerline{\large PROJECT SUMMARY}
+\title{Applied Category Theory 2019}
+\author{John C.\ Baez}
+
+\maketitle
+
+\noindent {\bf Overview}.  Dr.\ Bob Coecke of Oxford University, has
+agreed to host \textbf{Applied Category Theory 2019} in the summer of
+2019. With funding from the NSF, grad students and postdocs from the US
+would be able to attend this event which will bring together 30
+senior researchers, 25 junior researchers, and 5 participants from
+industry to discuss progress in applied category theory, create
+community, and lay out a roadmap for future work.  From January to
+April 2019, junior researchers will participate in an online reading
+seminar, culminating in a research school in Oxford where they will
+solve problems with help from expert mentors.  The workshop proper
+will then feature lectures and discussion in areas throughout applied
+category theory: chemical reaction networks, distributed systems,
+information theory, functional programming, process calculii, chemical
+systems, database theory, biological networks and diversity, and power
+networks.  This event is organized by Bob Coecke (Oxford), Daniel
+Cicala (UC Riverside), and Jules Hedges (Oxford).
+
+\noindent \textbf{Intellectual merit.}  Category theory has long been a powerful tool for transferring techniques between disciplines in pure mathematics.  Recently, it has become a useful tool in disciplines ranging from biochemistry, electrical engineering and control theory to the study of stochastic processes, the design of databases, and the design of networks of mobile agents.   Operads, sheaves and other sophisticated concepts are not only giving rise to new methodologies for system design and analysis, but also triggering new developments in the underlying mathematics.
+
+\noindent \textbf{Broader impacts.} 
+Currently, category theory informs work at US companies including Metron Scientific Solutions (the PI is using operads in their project with DARPA to build a Complex Adaptive System Composition and Design Environment, Siemens (one student of the PI is working in their project Next-Generation Engineering with Category Theory and Sheaves), and Categorical Informatics (the one member of senior personnel for this proposal is a cofounder of this company, which uses category theory to design databases).   However, the potential of this subject in industry has just begun to be exploited.  This workshop will address this problem.  It will teach junior researchers in mathematics how to apply category theory, expose participants from industry to the uses of this subject, and forge new contacts between mathematicians and industry.  
+
+\end{document}

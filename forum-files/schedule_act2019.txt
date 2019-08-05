@@ -1,0 +1,65 @@
+==========================
+        GROUP INFO
+==========================
+
+*Group 1*
+Lead=    Miriam Backens
+TA=   	 Hector Bakewell	
+Project= Simplifying quantum circuits using the ZX-calculus
+
+*Group 2*
+Lead=	 Tobias Fritz
+TA=   	 Paolo Perrone
+Project= Partial evaluation, the bar construction, and
+	 second order stochastic dominance
+
+*Group 3*
+Lead=    David Spivak
+TA=      Bredan Fong
+Project= Towards a mathematical foundation for autopoieses
+
+*Group 4*
+Lead=    Mehrnoosh Sadrzadeh
+TA=	 Gijs Wijnholds
+Project= Formal and experimental methods to reason about
+	 dialogue and discourse using categorical models of
+	 vector spaces
+
+*Group 5*
+Lead=    Bartosz Milewski
+TA=	 Derek Elkins
+Project= Traversal optics and profunctor
+
+*Group 6*
+Lead=    Pieter Hofstra
+TA=	 Jonathan Gallagher
+Project= Complexity classes, computation, and Turing
+	 categories
+
+==========================
+         SCHEDULE
+==========================
+
+13  feb -- response to invitations due
+18-22 feb -- introductions
+25 feb - 1 march -- presentation 1
+4-8 march -- group #1 presentation 2
+11-15 march -- break
+18-22 march -- group #2 presentation 1
+25-29 march -- group #2 presentation  2
+1-5 april -- break
+8-12 april -- group #3 presentation 1
+15-19 april -- group #3 presentation 2
+22-26 april -- break
+29 april - 3 may -- group #4 presentation 1
+6-10 may -- group #4 presentation 2
+13-17 may -- break
+20-24 may -- group #5 presentation 1
+27-31 may -- group #5 presentation 2
+3-7 june -- break
+10-14 june -- group #6 presentation 1
+17-21 june -- group #6 presentation 2
+24-28 june -- break
+8-12 july -- CT2019
+15-19 july -- ACT2019 conference in Oxford
+22-26 july -- ACT2019 schoolin Oxford

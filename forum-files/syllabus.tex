@@ -1,0 +1,744 @@
+\documentclass[11pt, oneside]{article}   
+\usepackage{geometry}   
+\geometry{letterpaper}   
+\usepackage[parfill]{parskip}
+\usepackage{graphicx,url}			
+\usepackage{amssymb}
+\usepackage{multicol}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+}
+\setcounter{tocdepth}{1}
+
+\title{Applied Category Theory School 2019}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\pagebreak
+
+%============================
+\section{Overview}
+\label{sec:overview}
+% ============================
+
+Each group is responsible for the following output:
+\begin{itemize}
+\item Two presentations (see Section \ref{sec:presentations})
+\item Two articles (see Section \ref{sec:blog})
+\end{itemize}
+Each group can determine how to divide up the work, but we
+encourage collaboration over a disjoint work style.  
+
+In addition, each individual participant is responsible for
+attending every presentation and posting a reading response
+for each paper. See Section \ref{sec:responses} for details.
+
+\pagebreak
+
+% =====================================
+\section{Project Descriptions}
+\label{sec:projects}
+% =====================================
+
+%
+% PROJECT 1
+%
+
+\subsection*{Group 1}
+
+\textsc{Title.}
+Simplifying Quantum Circuits using the ZX-Calculus
+
+\textsc{Members.}
+\begin{multicols}{2}
+  \begin{itemize}
+  \item Fatima Ahmadi (paper \ref{mb2})
+  \item Miriam Backens (project lead)
+  \item Hector Bakewell (teaching assistant)
+  \item Giovanni de Felice (paper \ref{mb1})
+  \item Leo Lobski (paper \ref{mb1})
+  \item John van de Wetering (paper \ref{mb2})
+  \end{itemize}
+\end{multicols}
+
+\textsc{Description.}  The ZX-calculus is a graphical
+calculus based on the category-theoretical formulation of
+quantum mechanics. A complete set of graphical rewrite rules
+is known for the ZX-calculus, but not for quantum circuits
+over any universal gate set. In this project, we aim to
+develop new strategies for using the ZX-calculus to simplify
+quantum circuits.
+
+\textsc{Reading.}
+\begin{enumerate}
+\item \label{mb1}
+  Matthew Amy, Jianxin Chen, Neil Ross. A finite
+  presentation of CNOT-Dihedral operators. Available at
+  \begin{quote}
+    \href{https://arxiv.org/abs/1701.00140}{https://arxiv.org/abs/1701.00140}
+  \end{quote}
+\item \label{mb2}
+  Miriam Backens. The ZX-calculus is complete for stabilizer
+  quantum mechanics. Available at
+  \begin{quote}
+    \href{https://arxiv.org/abs/1307.7025}{https://arxiv.org/abs/1307.7025}
+  \end{quote}
+\end{enumerate}
+
+\pagebreak
+
+%
+% PROJECT 2
+%
+
+\subsection*{Group 2}
+
+\textsc{Title.}  Partial Evaluations, the Bar
+Construction, and Second Order Stochastic Dominance
+
+\textsc{Members.}
+\begin{multicols}{2}
+  \begin{itemize}
+  \item Nathan Bedell (paper \ref{tf2})
+  \item Carmen Constantin (paper \ref{tf2})
+  \item Tobias Fritz (project lead)
+  \item Martin Lundfall (paper \ref{tf1})
+  \item Paolo Perrone (teaching assistant)
+  \item Brandon Shapiro (paper \ref{tf1})
+  \end{itemize}
+\end{multicols}
+
+
+\textsc{Description.}
+We all know that 2+2+1+1 evaluates to 6. A less familiar
+notion is that it can *partially evaluate* to 5+1. In this
+project, we aim to study the compositional structure of
+partial evaluation in terms of monads and the bar
+construction and see what this has to do with financial risk
+via second-order stochastic dominance.
+
+\textsc{Reading.}
+\begin{enumerate}
+\item \label{tf1}
+  Tobias Fritz, Paolo Perrone. Monads, partial evaluations,
+  and rewriting. Available at
+  \begin{quote}
+    \href{https://arxiv.org/abs/1810.06037}{https://arxiv.org/abs/1810.06037}
+  \end{quote}
+\item \label{tf2}
+  Maria Manuel Clementino, Dirk Hofmann, George
+  Janelidze. The monads of classical algebra are seldom
+  weakly Cartesian. Available at
+  \begin{quote}
+ \href{https://link.springer.com/article/10.1007/s40062-013-0063-2}{https://link.springer.com/article/10.1007/s40062-013-0063-2}
+  \end{quote}
+\item (extra)
+  Todd Trimble. On the bar construction. Available at
+  \begin{quote} \href{https://golem.ph.utexas.edu/category/2007/05/on\_the\_bar\_construction.html}{https://golem.ph.utexas.edu/category/2007/05/on\_the\_bar\_construction.html}
+  \end{quote}
+\end{enumerate}
+
+\pagebreak
+
+%
+% PROJECT 3
+%
+
+\subsection*{Group 3}
+
+\textsc{Title.}  Toward a Mathematical Foundation
+for Autopoiesis
+
+\textsc{Members.}
+\begin{multicols}{2}
+  \begin{itemize}
+  \item Brendan Fong (teaching assistant)
+  \item Bruno Gavranovic (paper \ref{ds1})
+  \item Sophie Libkind (paper \ref{ds1})
+  \item David Myers (paper \ref{ds2})
+  \item Toby Smithe (paper \ref{ds2})
+  \item David Spivak (project lead)
+  \end{itemize}
+\end{multicols}
+
+\textsc{Description.}  An autopoietic organization---anything
+from a living animal to a political party to a football
+team---is a system that is responsible for adapting and
+changing itself, so as to persist as events unfold. We want
+to develop mathematical abstractions that are suitable to
+found a scientific study of autopoietic organizations. To do
+this, we'll begin by using behavioral mereology and
+graphical logic to frame a discussion of autopoiesis, most
+of all what it is and how it can be best conceived. We do
+not expect to complete this ambitious objective; we hope
+only to make progress toward it.
+
+\textsc{Reading.}
+\begin{enumerate}
+\item \label{ds1}
+  Fong, Myers, Spivak. Behavioral mereology. Available at
+  \begin{quote}
+    \href{https://arxiv.org/abs/1811.00420}{https://arxiv.org/abs/1811.00420}
+  \end{quote}
+\item \label{ds2}
+  Fong, Spivak. Graphical regular logic. Available at
+  \begin{quote}
+    \href{https://arxiv.org/abs/1812.05765}{https://arxiv.org/abs/1812.05765}
+  \end{quote}
+\item (extra) Salge, Glackin, Polani. Changing the
+  environment based on empowerment as intrinsic
+  motivation. Available at
+  \begin{quote}
+    \href{https://www.mdpi.com/1099-4300/16/5/2789/htm}{https://www.mdpi.com/1099-4300/16/5/2789/htm}
+  \end{quote}
+\item (extra) Inevitable life (video). Available
+  \begin{quote} \href{https://www.youtube.com/watch?v=ElMqwgkXguw\&feature=youtu.be\&t=1}{https://www.youtube.com/watch?v=ElMqwgkXguw\&feature=youtu.be\&t=1}
+  \end{quote}
+\item (extra)
+  Luhmann. Organization and Decision, CUP. (Chapter 2)
+\end{enumerate}
+
+\pagebreak
+
+%
+% PROJECT 4
+%
+
+\subsection*{Group 4}
+
+\textsc{Title.}  Formal and Experimental Methods to
+Reason about Dialogue and Discourse using Categorical Models
+of Vector Space
+
+\textsc{Members.}
+\begin{multicols}{2}
+  \begin{itemize}
+  \item Adriana Correia (paper \ref{ms1})
+  \item Lachlan McPheat (paper \ref{ms1})
+  \item Mehrnoosh Sadrzadeh (project lead)
+  \item Dan Shiebler (paper \ref{ms2})
+  \item Alexis Toumi (paper \ref{ms2})
+  \item Gijs Wijnholds (teaching assistant)
+  \end{itemize}
+\end{multicols}
+
+
+\textsc{Description.}
+Distributional semantics argues that meanings of words can
+be represented by the frequency of their co-occurrences in
+context. A model extending distributional semantics from
+words to sentences has a categorical interpretation via
+Lambek's syntactic calculus or pregroups. In this project,
+we intend to further extend this model to reason about
+dialogue and discourse utterances where people interrupt
+each other, there are references that need to be resolved,
+disfluencies, pauses, and corrections. Additionally, we
+would like to design experiments and run toy models to
+verify predictions of the
+developed models.
+
+\textsc{Reading.}
+\begin{enumerate}
+\item \label{ms1}
+  Gerhard Jager. A multi-modal analysis of anaphora and
+  ellipsis. Available at
+  \begin{quote}    \href{http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.53.7214}{http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.53.7214}
+  \end{quote}
+\item \label{ms2}
+  Matthew Purver, Ronnie Cann, Ruth Kempson. Grammars as
+  parsers: Meeting the dialogue challenge. Available
+  \begin{quote} \href{http://www.eecs.qmul.ac.uk/~mpurver/papers/purver-et-al06rolc.pdf}{http://www.eecs.qmul.ac.uk/~mpurver/papers/purver-et-al06rolc.pdf}
+  \end{quote}
+\item (extra) Bob Coecke, Edward Grefenstette, Mehrnoosh
+  Sadrzadeh. Lambek vs Lambek: Functorial vector space
+  semantics and string diagrams for Lambek
+  calculus. Available at
+  \begin{quote} \href{https://www.sciencedirect.com/science/article/pii/S0168007213000626}{https://www.sciencedirect.com/science/article/pii/S0168007213000626}
+  \end{quote}
+\item (extra) Bob Coecke, Mehrnoosh Sadrzadeh, Stephen
+  Clark. Mathematical foundations for a compositional
+  distributional model of meaning. Available at
+  \begin{quote}
+    \href{https://arxiv.org/abs/1003.4394}{https://arxiv.org/abs/1003.4394}
+  \end{quote}
+\end{enumerate}
+
+\pagebreak
+
+%
+% PROJECT 5
+%
+
+\subsection*{Group 5}
+
+\textsc{Title.}  Complexity Classes, Computations,
+and Turing Categories
+
+\textsc{Members.}
+\begin{multicols}{2}
+  \begin{itemize}
+  \item Georgios Bakirtzis (paper \ref{ph1})
+  \item Adam Conghaile (paper \ref{ph2})
+  \item Jonathan Gallagher (teaching assistant)
+  \item Pieter Hofstra (project lead)
+  \item Diego Roque (paper \ref{ph2})
+  \item Christian Williams (paper \ref{ph1})
+  \end{itemize}
+\end{multicols}
+
+\textsc{Description.}
+Turing categories form a categorical setting for studying
+computability without bias towards any particular model of
+computation. It is not currently clear, however, that Turing
+categories are useful to study practical aspects of
+computation such as complexity. This project revolves around
+the systematic study of step-based computation in the form
+of stack-machines, the resulting Turing categories, and
+complexity classes. This will involve a study of the
+interplay between traced monoidal structure and
+computation. We will explore the idea of stack machines qua
+programming languages, investigate the expressive power, and
+tie this to complexity theory. We will also consider
+questions such as the following: can we characterize Turing
+categories arising from stack machines? Is there an initial
+such category? How does this structure relate to other
+categorical structures associated with computability?
+
+\textsc{Reading.}
+\begin{enumerate}
+\item \label{ph1}
+  J.R.B. Cockett, P.J.W. Hofstra. Introduction to Turing
+  categories. APAL, Vol 156, pp 183-209, 2008. Available at
+  \begin{quote} \href{https://www.sciencedirect.com/science/article/pii/S0168007208000948}{https://www.sciencedirect.com/science/article/pii/S0168007208000948}
+  \end{quote}
+\item \label{ph2}
+  J.R.B. Cockett, P.J.W. Hofstra, P. Hrubes. Total maps of
+  Turing categories. ENTCS (Proc. of MFPS XXX), pp 129-146,
+  2014. Available at
+  \begin{quote} \href{https://www.sciencedirect.com/science/article/pii/S1571066114000759}{https://www.sciencedirect.com/science/article/pii/S1571066114000759}
+  \end{quote}
+\item (extra)
+  A. Joyal, R. Street, D. Verity. Traced monoidal
+  categories. Mat. Proc. Cam. Phil. Soc. 3, pp. 447-468,
+  1996. Available at
+  \begin{quote} \href{https://pdfs.semanticscholar.org/c232/37a187d026b8130d98c09187b8ba4f611c40.pdf}{https://pdfs.semanticscholar.org/c232/37a187d026b8130d98c09187b8ba4f611c40.pdf}
+  \end{quote}
+\end{enumerate}
+
+\pagebreak
+
+%
+% PROJECT 6
+%
+
+\subsection*{Group 6}
+
+\textsc{Title.}
+Traversal Optics and Profunctors
+
+\textsc{Members.}
+\begin{multicols}{2}
+  \begin{itemize}
+  \item Bryce Clarke (paper \ref{bm1})
+  \item Derek Elkins (teaching assistant)
+  \item Mario Roman (paper \ref{bm2})
+  \item Fosco Loregian (paper \ref{bm1})
+  \item Bartosz Milewski (project lead)
+  \item Emily Pillmore (paper \ref{bm2})
+  \end{itemize}
+\end{multicols}
+
+\textsc{Description.}
+In functional programming, optics are ways to zoom into a
+specific part of a given data type and mutate it. Optics
+come in many flavors such as lenses and prisms and there is
+a well-studied categorical viewpoint, known as profunctor
+optics. Of all the optic types, only the traversal has
+resisted a derivation from first principles into a
+profunctor description. This project aims to do just this.
+
+\textsc{Reading.}
+\begin{enumerate}
+\item \label{bm1}
+  Craig Pastro, Ross Street. Doubles for monoidal
+  categories. Available at
+  \begin{quote}
+    \href{https://arxiv.org/abs/0711.1859}{https://arxiv.org/abs/0711.1859}
+  \end{quote}
+\item \label{bm2}
+  Bartosz Milewski. Profunctor optics, categorical
+  View. Available at
+  \begin{quote} \href{https://bartoszmilewski.com/2017/07/07/profunctor-optics-the-categorical-view/}{https://bartoszmilewski.com/2017/07/07/profunctor-optics-the-categorical-view/}
+  \end{quote}
+\end{enumerate}
+
+\pagebreak
+
+% =======================================
+\section{Schedule}
+\label{sec:schedule}
+% =======================================
+
+The exact meeting times for the video conference will be
+determined in the first week of the school. 
+
+18-22 feb // introductions \\
+25 feb-1 march //  a finite presentation \\
+4-8 march // group 1 // the zx-calculus is complete \\
+11-15 march // break \\
+18-22 march // monads, partial evaluations, and rewriting \\
+25-29 march // seldom weakly cartesian \\
+1-5 april // break \\
+8-12 april // behavioral mereology \\
+15-19 april // graphical regular logic \\
+22-26 april // break \\
+29 april-3 may // anaphora and ellipsis \\
+6-10 may // grammars as parsers \\
+13-17 may // break \\
+20-24 may  // turing categories \\
+27-31 may  // total maps \\
+3-7 june // break \\
+10-14 june // doubles for monoidal categories \\
+17-21 june// profunctor optics \\
+24-28 june // break \\
+8-12 july // ct2019 \\
+15-19 july // act2019 conference \\
+22-26 july // act2019 school \\
+
+\pagebreak
+
+% =======================================
+\section{Presentations}
+\label{sec:presentations}
+% =======================================
+
+Each group will make two presentations, one per paper.  For
+those groups with additional readings, the content labeled
+``extra'' is provided as an additional resource to
+strengthen your background knowledge. Section
+\ref{sec:projects} lists the paper you were assigned to
+present and write about. You will have a partner.  Each
+partnership may determine how to split the workload. We
+encourage collaboration above a disjoint workflow.  
+
+Due to presenting via video conference, using slides is
+highly recommended. If this is not possible, a board talk
+can work, but this can lead to difficulties in hearing the
+speaker as they will be further from the microphone and
+often turned to the board while writing.  
+
+Each presentation should be 40 minutes, which will allow 20
+minutes for conversation.  Please take care to adhere to
+this timing as a courtesy for all participants.
+
+Also, \textbf{please push any slides or notes} to the school
+github repo prior to your presentation. Technical details
+are in Section \ref{sec:github}.
+
+\pagebreak
+
+% =======================================
+\section{Blog Posts}
+\label{sec:blog}
+% =======================================
+
+Each group will write two articles, one per paper. This does
+not need to be a summary of the paper. Indeed, try to
+incorporate the project and related papers in this
+school. Both pair of partners will receive authorship of the
+paper, regardless of who does the majority writing.
+
+We expect this article to be of professional quality. Thus,
+it will go through several rounds of revisions.  After you
+complete your first draft, allow your TA and project lead to
+look at it.  Also, allow the organizers Daniel and Jules to
+look.  Incorporate any notes you are given.
+
+\textbf{Please complete your first draft by one week
+  following your presentation.} This will allow enough time
+for reviews and edits to be made, with the goal of posting
+the article two weeks after you give your presentation.
+
+Because it will be posted as a blog article, there is no
+maximum length. However, we do want busy readers to make it
+to the end of the article, so keep the readers attention
+span in mind.
+
+The article will be posted on the
+\href{https://golem.ph.utexas.edu/category/}{nCafe}. To do so successfully requires some technical
+knowledge which we discuss below.
+
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\subsection{Posting to the nCat Cafe}
+\label{sec:ncat}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+For formatting, the nCafe uses `Markdown with MathML and
+iTeX'. It's a basic mark-up language, based on Markdown and
+TeX.  You can find some examples of it in the blog posts
+folder of this github repo, and that should demonstrate
+everything you need.
+
+\textbf{Before posting, it is important that you test your
+  entry.} To do this, go to the nCafe, choose any entry. Go
+to the comment section as if you will comment on the
+article. Copy and paste your entry into the comment box and
+press preview, you'll see how it renders. (Except for
+headings, ie except for the \#\# syntax. Commenters aren't
+allowed headings.)
+
+
+A few points to note about blog posts:
+\begin{itemize}
+  \item It's best if the first line of the text file is the
+    title (short and snappy), and the second has this form:
+    \begin{quote}
+      *guest post by [author1](author1's url) and
+      [author2](author2's website)
+    \end{quote}
+    This second line provides a clickable link your your
+    website.
+
+  \item There needs to be a clean break between the stuff
+    that shows up on the blog's main page---which should be
+    short, about 1 paragraph---and the rest of the entry.
+    The first part is an advertisement for the second.
+
+  \item Due to a defect of the nCafe, letters in math
+    mode that appear without spaces between them, like
+    \texttt{c\_\{ij\}}, will not be italicized.
+
+  \item Subject headers starting with \#\# show up bigger
+    than subject headers starting with \#\#\#, etc. (But
+    again, you won't see this in comment preview.)
+  \item The blog takes ASCII code and it runs on HTML, so
+    special characters needed to be replaced by their HTML
+    code. For example, \"a should be replaced by
+    \texttt{\&auml;}, \'e by \texttt{\&eacute;}, $<$ by
+    \texttt{\&lt;}, and so on.
+\end{itemize}
+
+Including images is encouraged, but needs a bit of
+care. First, \emph{images must be .pngs with transparent
+  background} (not .jpgs with a white background), else they
+stand out on the gray background of the $n$-Caf\'e.
+\footnote{
+  For comparison of different image formats,
+  pretend to post this comment on the n-Cafe, and preview
+  it:
+  \begin{quote}
+    Nontransparent:
+    \texttt{<img src = "http://math.ucr.edu/home/baez/mathematical/ACT2018/cicala/ diag\_snake-eq\_nontransparent.png"
+      alt = ""/>}
+    
+    versus transparent:
+
+    \texttt{
+      <img src =
+      "http://math.ucr.edu/home/baez/mathematical/ACT2018/cicala/ diag\_snake-eq.png"
+      alt = ""/>}
+
+    versus transparent and 300 pixels wide:
+
+    \texttt{
+      <img width = "300" src =
+      "http://math.ucr.edu/home/baez/mathematical/ACT2018/cicala/diag\_snake-eq.png"
+      alt = ""/>)}
+  \end{quote}
+}
+
+Once in the correct format, please push your images to
+\begin{quote}
+  \texttt{http://danielmichaelcicala.github.io/act2019/\emph{assets/image.type}}
+\end{quote}
+Contact Daniel if you are having difficulty with this.
+
+To include these in your blog post, use the following code:
+\begin{quote}
+  \texttt{<img width = "100" src =
+    "http://danielmichaelcicala.github.io/act2019/\emph{assets/image.type}"
+    alt = ""/>}
+\end{quote}
+You specify the width (or height) in pixels.
+
+% =======================================
+\section{Reading Responses}
+\label{sec:responses}
+% =======================================
+
+Reading responses are a critical part of this school. Every
+student is responsible for writing a reading response for
+every paper other than that which they were assigned.  Some
+prompts include
+\begin{multicols}{2}
+  \begin{itemize}
+  \item questions you have
+  \item ideas you have
+  \item impressions made
+  \item related facts
+  \item what you liked or disliked
+  \item speculating about future work
+  \end{itemize}
+\end{multicols}
+
+These need not be long. The goal is to show that you engaged
+with the material. If you struggled with the paper, say so,
+ask questions, and others will help.  If the paper was an
+easy read for you, answer questions and help clarify
+concepts for others.  
+
+\textbf{The reading responses are due the day prior to the associated
+presentation.} They will be posted to the github repo (see
+Section \ref{sec:github}). 
+
+Specifically, all responses will be written in a single .tex
+file named ``forum.tex''. We will start with a basic preamble, but feel free to
+add any macro's or packages that will allow you to post more
+comfortably.
+
+We also encourage conversation on the forum.  To do
+encourage this and also uniform formatting, there are two
+macros you should use.
+\begin{itemize}
+\item \texttt{\textbackslash iam\{NAME\}} where you fill in
+  your own name in place of NAME.  You write your primary
+  reading response following it.
+\item \texttt{\textbackslash respond\{NAME\}} is used to
+  respond to another participants reading response.  This is
+  used to answer questions, ask questions, provide
+  references, etc.
+\end{itemize}
+More details will be contained in the forum.tex file.  
+
+\pagebreak
+
+% =======================================
+\section{Video Conferencing}
+\label{sec:video}
+% =======================================
+
+We will use the \href{https://zoom.us/}{zoom} video
+conferencing software. It is free to sign-up and you can use
+it in your browser or download an app for desktop or smartphone.
+
+Go to the following url to join the meeting.
+
+\begin{quote}
+  https://ucrengage.zoom.us/j/4336013223
+\end{quote}
+
+During presentations, we ask that you keep your microphone
+muted while you are not speaking. 
+
+\pagebreak
+
+% =======================================
+\section{GitHub}
+\label{sec:github}
+% =======================================
+
+Our forum is hosted on a shared LaTeX file on GitHub.
+GitHub is an online service that hosts Git repositories
+(repos for short). Git is a software package for sharing and
+simultaneously editing documents. It was developed to
+organize large open source coding projects, like writing
+parts of the Linux operating system. It inspired Dropbox,
+and indeed you can think about it as a more advanced form of
+Dropbox.
+
+We considered using Dropbox for sharing a LaTeX file, but
+the problem with that is that Dropbox doesn't know what to
+do if two people edit the file simultaneously. This can lead
+to people losing work, and is rather frustrating.
+
+Git solves this problem by making everyone have their own
+copies, and then making everyone run explicit commands to
+merge and update their own copies with a central master
+copy.
+
+Our forum is private, so you'll need to have a GitHub
+account. Sign up at
+\begin{quote}
+  \url{https://github.com/join?source=header-home}
+\end{quote}
+Once you have created your account, please email your
+username to Daniel, so he can give you access.  Once you
+have an account, download Git by clicking the relevant one
+of these:
+\begin{itemize}
+\item  Windows \url{http://gitforwindows.org}
+\item  Mac  \url{https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-mac-md}
+\item Linux  \url{https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-linux-md}
+\end{itemize}
+
+How you interact with Git/GitHub will depend on your own
+computer and whether you decide to use a GUI (e.g./ GitHub
+Desktop)) or the terminal. 
+
+Once your GitHub account is active and you've downloaded
+git, you will want to clone the repo; this copies the files
+contained in the repo to your computer. For this, you must
+have already accepted our invitation to the private repo.
+
+If you have a GUI, click clone and enter the URL
+\begin{quote}
+  \url{https://github.com/danielmichaelcicala/act2019}
+\end{quote}
+when asked.
+
+If you are using terminal, navigate to the folder where you
+want the forum to be created, and then run:
+
+\begin{verbatim}
+    git clone https://github.com/danielmichaelcicala/act2019
+\end{verbatim}
+
+Now you have the forum! It will be in a folder called
+``act2019''.
+
+All that remains is to use it. If you use a GUI, then using
+Git should just be a matter of pressing the buttons they
+tell you to.
+
+If using terminal these are the steps you should follow to
+post your reading response.
+
+\begin{enumerate}
+\item Open terminal and navigate to the
+``act2019'' folder.
+
+\item At the prompt, type ``\verb|git pull|''. This updates your
+  local copy of the forum, so you can read the latest posts.
+
+\item Open forum.tex and type your reading response, save
+  the file, and generate the pdf to ensure there are no errors.
+  
+\item In terminal, type ``\verb|git add .|'' to add all of
+  the updated files in the local copy of your
+  ``act2019'' folder into a staging area where git has
+  access to them.
+  
+\item In terminal, type ``\verb|git commit -m  "MESSAGE"|''. This tells git to save the added files and
+  annotates them with the message you enter at MESSAGE. It's
+  best to add a short ($ \sim $3 word) description of your
+  changes. Something like ``Pam's reading response''.
+
+\item At the terminal, type ``\verb|git push|''. This will merge
+  your changes with the master copy and your response will
+  be reflected in subsequent 'pulls'. 
+\end{enumerate}
+
+
+
+
+
+\end{document}

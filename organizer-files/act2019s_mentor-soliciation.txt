@@ -1,0 +1,531 @@
+
+
+-----------	mentor 1		-----------------
+-----------	david spivak 		-----------------
+-----------	dspivak@math.mit.edu 	-----------------
+
+(SENT)
+
+
+Hi David,
+
+This is Daniel Cicala.  I'm currently organizing the second iteration
+of the Applied Category Theory (ACT) workshop/school.  I'm writing to
+see if you'd be interested in being a mentor for the school. Mind, I'm
+not seeking commitments or offering any certainties at this point. I'm
+only writing to gauge your interest. Personally, I think you'd be a really
+great addition.
+
+I know you were at the workshop part of the ACT2018, and so maybe got
+some of the flavor about what the school portion is all about.  But
+just to provide some extra details...essentially, you would pick out a
+project that you're interested in working on. Honestly, you have so
+many interesting ideas and projects that would be a great fit. Your
+categorical informatics would be exciting, or your work on
+interconnected systems or distributed systems. But really it's fully
+up to you what project to bring to the table.
+
+You'd be paired with about 4 grad students split into two pairs.
+You'd assign to each pair a reading that you think is requisite
+background for your project.  They'd present their paper to the entire
+group of students via video conference and write a blog post on the
+paper for the nCat Cafe. The most fun part will happen in the summer
+of 2019 (exact dates to be determined).  Everyone involved will get
+together in Oxford and you'll have the full week to work on your
+projects together with your students.
+
+The link to last years ACT webpage is here http://www.appliedcategorytheory.org/school/. The mentors
+then were:
+
+John Baez, baez@math.ucr.edu
+Pawel Sobocinski, ps@ecs.soton.ac.uk
+Martha Lewis, marthaflinderslewis@gmail.com
+Aleks Kissinger, aleks0@gmail.com
+
+If you have any further question, please feel free to ask me or one of
+last years mentors. I look forward to hearing from you.
+
+Best
+Daniel Cicala
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+---------	mentor 2		----------------------
+---------	       			----------------------
+---------	tobias fritz		----------------------
+---------	       			----------------------
+---------	fritz@mis.mpg.de	----------------------
+
+(SENT)
+
+
+Hi Tobias,
+
+This is Daniel Cicala.  I'm currently organizing the second iteration
+of the Applied Category Theory (ACT) workshop/school.  I'm writing to
+see if you'd be interested in being a mentor for the school. Mind, I'm
+not seeking commitments or offering any certainties at this point. I'm
+only writing to gauge your interest.
+
+Essentially, this would consist of you picking out a project that
+you're interested in working on that is applying category theory to
+some non-pure math field. Based on your work and ideas, you would really be a
+great fit. In particular, your work on information theory and resource
+theory stands out as fitting well with what we are trying to do, but
+really the project is completely yours to choose.
+
+You'd be paired with about 4 grad students split into two pairs.
+You'd assign to each pair a reading that you think is requisite
+background for your project.  They'd present their paper to the entire
+group of students via video conference and write a blog post on the
+paper for the nCat Cafe. The most fun part will happen in the summer
+of 2019 (exact dates to be determined).  Everyone involved will get
+together in Oxford and you'll have the full week to work on your
+projects together with your students.
+
+The link to last years ACT webpage is here http://www.appliedcategorytheory.org/school/. The mentors
+then were:
+
+John Baez, baez@math.ucr.edu
+Pawel Sobocinski, ps@ecs.soton.ac.uk
+Martha Lewis, marthaflinderslewis@gmail.com
+Aleks Kissinger, aleks0@gmail.com
+
+If you have any further question, please feel free to ask me or one of
+last years mentors. I look forward to hearing from you.
+
+Best
+Daniel Cicala
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+---------	 mentor 3			-------------
+---------	 				-------------
+---------	 bartosz milewski		-------------
+---------	 bartosz@relisoft.com		-------------
+---------
+
+(SENT)
+
+Hi Bartosz,
+
+My name is Daniel Cicala, a student of John Baez.  I'm currently
+organizing the second iteration of the Applied Category Theory (ACT)
+workshop/school. The first year went very well and received interest
+from many great people.  I'm writing to see if you'd be interested in
+being a mentor for the school. Mind, I'm not seeking commitments or
+offering and certainties at this time. I'm only writing to gauge your
+interest. I think you'd be a really great addition.
+
+How the school works is, essentially, you would pick out a project
+that you're interested in working on that applies category theory to
+some non-pure math field. Your work connecting functional programming
+and category theory would fit in perfectly.  However, the project
+you'd bring to the table is fully your decision.
+
+You'd be paired with about 4 grad students split into two pairs.
+You'd assign to each pair a reading that you think is requisite
+background for your project.  They'd present their paper to the entire
+group of students via video conference and write a blog post on the
+paper for the nCat Cafe, a popular blog on category theory. The most
+fun part will happen in the summer of 2019 (exact dates to be
+determined).  Everyone involved will get together in Oxford and you'll
+have the full week to work on your projects together with your
+students.
+
+The link to last years ACT webpage is here http://www.appliedcategorytheory.org/school/. The mentors
+then were:
+
+John Baez, baez@math.ucr.edu
+Pawel Sobocinski, ps@ecs.soton.ac.uk
+Martha Lewis, marthaflinderslewis@gmail.com
+Aleks Kissinger, aleks0@gmail.com
+
+If you have any further question, please feel free to ask me or one of
+last years mentors. I look forward to hearing from you.
+
+Best
+Daniel Cicala
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+---------	 mentor 4			--------------
+---------	 				--------------
+---------	 fabio gadducci			--------------
+---------	       				--------------	
+---------	 fabio.gadducci@unipi.it	--------------
+
+(SENT)
+
+
+Hi Fabio,
+
+This is Daniel Cicala.  I'm currently organizing the second iteration
+of the Applied Category Theory (ACT) workshop/school.  I'm writing to
+see if you'd be interested in being a mentor for the school. Mind, I'm
+not seeking commitments or offering certainties at this point. I'm
+really only writing to gauge your interest. Personally, I think
+you'd be a really great addition.
+
+I know you were at the workshop part of the ACT2018, and so maybe got
+some of the flavor about what the school portion is all about.  But
+just to provide some extra details...essentially, you would pick out a
+project that you're interested in working on that applies category
+theory to some non-pure math field.  What captured my
+interest, and what I think would be a great fit for the ACT school is
+your work on rewriting theory and process calculii.  If you have a
+project in these areas that you'd like some collaborators on, this
+could be a great opportunity.  Even though I mention rewriting and the
+process calculii, the project you bring to the table is fully up to you.
+
+You'd be paired with about 4 grad students split into two pairs.
+You'd assign to each pair a reading that you think is requisite
+background for your project.  They'd present their paper to the entire
+group of students via video conference and write a blog post on the
+paper for the nCat Cafe. The most fun part will happen in the summer
+of 2019 (exact dates to be determined).  Everyone involved will get
+together in Oxford and you'll have the full week to work on your
+projects together with your students.
+
+The link to last years ACT webpage is here http://www.appliedcategorytheory.org/school/. The mentors
+then were:
+
+John Baez, baez@math.ucr.edu
+Pawel Sobocinski, ps@ecs.soton.ac.uk
+Martha Lewis, marthaflinderslewis@gmail.com
+Aleks Kissinger, aleks0@gmail.com
+
+If you have any further question, please feel free to ask me or one of
+last years mentors. I look forward to hearing from you.
+
+Best
+Daniel Cicala
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+---------	mentor 5		----------------
+---------	       			----------------
+--------- 	gordon plotkin		----------------
+---------	       			----------------
+-------- -	gdp@inf.ed.ac.uk 	----------------
+
+(SENT)
+
+
+Hi Gordon,
+
+My name is Daniel Cicala, a student of John Baez.  I'm currently
+organizing the second iteration of the Applied Category Theory (ACT)
+workshop/school. The first year went very well and received interest
+from many great people.  I'm writing to see if you'd be interested in
+being a mentor for the school. Mind, I'm not seeking commitments or
+offering any certainties at this time. I'm really only writing to
+gauge your interest.  You'd definitely be a excellent addition.
+
+How the school works is, essentially, you would pick out a project
+that you're interested in working on that applies category theory to
+some non-pure math field. In fact, the ideas contained in your papers
+'A calculus of chemical systems', 'Quantitative algebraic reasoning',
+and 'Handling algebraic effects' are representative of projects we'd
+like to include in ACT.  Ultimately, the project is fully your
+decision and can consist of whatever your latest interests are.
+
+You'd be paired with about 4 grad students split into two pairs.
+You'd assign to each pair a reading that you think is requisite
+background for your project.  They'd present their paper to the entire
+group of students via video conference and write a blog post on the
+paper for the nCat Cafe. The most fun part will happen in the summer
+of 2019 (exact dates to be determined.  Everyone involved will get
+together in Oxford and you'll have the full week to work on your
+projects together with your students.
+
+The link to last years ACT webpage is here http://www.appliedcategorytheory.org/school/. The mentors
+then were:
+
+John Baez, baez@math.ucr.edu
+Pawel Sobocinski, ps@ecs.soton.ac.uk
+Martha Lewis, marthaflinderslewis@gmail.com
+Aleks Kissinger, aleks0@gmail.com
+
+If you have any further question, please feel free to ask me or one of
+last years mentors. I look forward to hearing from you.
+
+Best
+Daniel Cicala
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+-----------	mentor 6		----------------
+-----------				----------------
+-----------	pieter hofstra		----------------
+-----------	       			----------------
+-----------	phofstra@uottawa.ca	----------------
+
+
+(SENT)
+
+
+Hi Pieter,
+
+This is Daniel Cicala, Rick's former student.  I'm currently organizing
+the second iteration of the Applied Category Theory (ACT)
+workshop/school. The first year went very well and received interest
+from many great people.  I'm writing to see if you'd be interested in
+being a mentor for the 2019 school. Mind, I'm not seeking commitments
+or offering any certainties at this point.  I'm only writing to gauge
+your interest. Personally, I think you'd be a really great addition.
+
+How the school works is, essentially, you would pick out a project
+that you're interested in working on that applies category theory to
+some non-pure math field. What caught my interest is your work on
+Turing categories and computability. Also, I recall while I was at
+uOttawa, you were working with, I think, the Management and Psychology
+faculties around strategies in one of Conway's games.  I don't know
+what became of that project, but ideas like this are exactly what we
+hope to bring into the ACT school. Ultimately though, what project
+you'd like to bring to the table is fully your decision.
+
+You'd be paired with about 4 grad students split into two pairs.
+You'd assign to each pair a reading that you think is requisite
+background for your project.  They'd present their paper to the entire
+group of students via video conference and write a blog post on the
+paper for the nCat Cafe. The most fun part will happen in the summer
+of 2019 (exact dates to be determined).  Everyone involved will get
+together in Oxford and you'll have the full week to work on your
+projects together with your students.
+
+The link to last years ACT webpage is here http://www.appliedcategorytheory.org/school/. The mentors
+then were:
+
+John Baez, baez@math.ucr.edu
+Pawel Sobocinski, ps@ecs.soton.ac.uk
+Martha Lewis, marthaflinderslewis@gmail.com
+Aleks Kissinger, aleks0@gmail.com
+
+If you have any further question, please feel free to ask me or one of
+last years mentors. I look forward to hearing from you.
+
+Best
+Daniel Cicala
+
+------------------------------------------------------------------
+------------------------------------------------------------------
+
+-----------	 mentor 7			------------------
+-----------					------------------
+-----------	 michael johnson		------------------	
+-----------	 	 			------------------
+-----------	 michael.johnson@mq.edu.au	------------------
+
+
+(SENT)
+
+
+Hi Michael,
+
+This is Daniel Cicala. We met in Leiden at last years Applied Category
+Theory workshop. I'm currently organizing the second iteration of the
+Applied Category Theory (ACT) workshop/school. I'm writing to see if
+you'd be interested in being a mentor for the 2019 school. Mind, I'm
+not seeking commitments or offering any certainties at this point.
+I'm only writing to gauge your interest. Personally, I really loved
+your work on lenses and think you'd be a really great addition.
+
+Perhaps you got the idea of how the school works while at ACT2018, but
+here's a few details.  How the school works is, essentially, you would
+pick out a project that you're interested in working on that applies
+category theory to some non-pure math field. What caught my interest
+is your work on lenses and databases.  I think they'd be a great
+addition to the ACT2019 school. Ultimately though, what project you'd
+like to bring to the table is fully your decision.
+
+You'd be paired with about 4 grad students split into two pairs.
+You'd assign to each pair a reading that you think is requisite
+background for your project.  They'd present their paper to the entire
+group of students via video conference and write a blog post on the
+paper for the nCat Cafe. The most fun part will happen in the summer
+of 2019 (exact dates to be determined).  Everyone involved will get
+together in Oxford and you'll have the full week to work on your
+projects together with your students.
+
+The link to last years ACT webpage is here http://www.appliedcategorytheory.org/school/. The mentors
+then were:
+
+John Baez, baez@math.ucr.edu
+Pawel Sobocinski, ps@ecs.soton.ac.uk
+Martha Lewis, marthaflinderslewis@gmail.com
+Aleks Kissinger, aleks0@gmail.com
+
+If you have any further question, please feel free to ask me or one of
+last years mentors. I look forward to hearing from you.
+
+Best
+Daniel Cicala
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+---------	mentor 8			--------------
+---------	       				--------------
+---------	taichi haruna			--------------
+---------					--------------
+---------	tharuna@lab.twcu.ac.jp		--------------
+
+
+(SENT)
+
+
+Hi Taichi,
+
+This is Daniel Cicala. I'm currently organizing the second iteration
+of the Applied Category Theory (ACT) workshop/school. I'm writing to
+see if you'd be interested in being a mentor for the 2019
+school. Mind, I'm not seeking commitments or offering any certainties.
+I'm only writing to gauge potential interest. Anyway, I think you'd be
+a really great addition.
+
+How the school works is, essentially, you would
+pick out a project that you're interested in working on that applies
+category theory to some non-pure math field. What caught my interest
+is your `Theory of interface' paper.  Including biological networks is
+very much in line with the sort of topics we'd like to include in the ACT2019 school. 
+
+You'd be paired with about 4 grad students split into two pairs.
+You'd assign to each pair a reading that you think is requisite
+background for your project.  They'd present their paper to the entire
+group of students via video conference and write a blog post on the
+paper for the nCat Cafe. The most fun part will happen in the summer
+of 2019 (exact dates to be determined).  Everyone involved will get
+together in Oxford and you'll have the full week to work on your
+projects together with your students.
+
+The link to last years ACT webpage is here http://www.appliedcategorytheory.org/school/. The mentors
+then were:
+
+John Baez, baez@math.ucr.edu
+Pawel Sobocinski, ps@ecs.soton.ac.uk
+Martha Lewis, marthaflinderslewis@gmail.com
+Aleks Kissinger, aleks0@gmail.com
+
+If you have any further question, please feel free to ask me or one of
+last years mentors. I look forward to hearing from you.
+
+Best
+Daniel Cicala
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+---------	mentor 9			--------------
+---------	       				--------------
+---------	spencer breiner			--------------
+---------					--------------
+---------	spencer.breiner@nist.gov	--------------
+
+
+(SENT)
+
+
+Hi Spencer,
+
+This is Daniel Cicala. We met in Leiden at the ACT2018 workshop.  I'm
+currently organizing the second iteration of the Applied Category
+Theory (ACT) workshop/school. I'm writing to see if you'd be
+interested in being a mentor for the 2019 school. Mind, I'm not
+seeking commitments or offering any certainties at this point.  I'm
+only writing to gauge your interest. Personally, I think you'd be a
+really great addition.
+
+Perhaps you grasped some of how the school works while at ACT2018, but
+here are a few extra details. Essentially, you would pick out a
+project that you're interested in working on that applies category
+theory to some non-pure math field. Given that you work squarely in
+industry applying category theory to real world problems, any project
+in this realm is exactly what we'd like to include in the ACT2019
+school. As to what specific project you'd like to bring to the table,
+it is completely up to you.
+
+You'd be paired with about 4 grad students split into two pairs.
+You'd assign to each pair a reading that you think is requisite
+background for your project.  They'd present their paper to the entire
+group of students via video conference and write a blog post on the
+paper for the nCat Cafe. The most fun part will happen in the summer
+of 2019 (exact dates to be determined).  Everyone involved will get
+together in Oxford and you'll have the full week to work on your
+projects together with your students.
+
+The link to last years ACT webpage is here http://www.appliedcategorytheory.org/school/. The mentors
+then were:
+
+John Baez, baez@math.ucr.edu
+Pawel Sobocinski, ps@ecs.soton.ac.uk
+Martha Lewis, marthaflinderslewis@gmail.com
+Aleks Kissinger, aleks0@gmail.com
+
+If you have any further question, please feel free to ask me or one of
+last years mentors. I look forward to hearing from you.
+
+Best
+Daniel Cicala
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+---------	mentor 10			--------------
+---------					--------------
+---------	tom leinster			--------------
+---------					--------------
+---------	tom.leinster@ed.ac.uk		--------------
+
+
+(SENT)
+
+
+Hi Tom,
+
+This is Daniel Cicala, John Baez's student. We met in Leiden at the
+ACT2018 workshop.  I'm currently organizing the second iteration of
+the Applied Category Theory (ACT) workshop/school. I'm writing to see
+if you'd be interested in being a mentor for the 2019 school. Mind,
+I'm not seeking commitments or offering any certainties at this
+point. I'm really only writing to gauge your interest. Anyway, I think
+you'd be a really great addition.
+
+Perhaps you grasped some of how the school works while at ACT2018, but
+here are a few extra details. Essentially, you would pick out a
+project that you're interested in working on that applies category
+theory to some non-pure math field. Your work in entropy and
+biological diversity is exactly the sort of topic that we'd love to
+include in ACT2019. As to what specific project you'd like to bring to
+the table, it is completely up to you.
+
+You'd be paired with about 4 grad students split into two pairs.
+You'd assign to each pair a reading that you think is requisite
+background for your project.  They'd present their paper to the entire
+group of students via video conference and write a blog post on the
+paper for the nCat Cafe. The most fun part will happen in the summer
+of 2019 (exact dates to be determined).  Everyone involved will get
+together in Oxford and you'll have the full week to work on your
+projects together with your students.
+
+The link to last years ACT webpage is here http://www.appliedcategorytheory.org/school/. The mentors
+then were:
+
+John Baez, baez@math.ucr.edu
+Pawel Sobocinski, ps@ecs.soton.ac.uk
+Martha Lewis, marthaflinderslewis@gmail.com
+Aleks Kissinger, aleks0@gmail.com
+
+If you have any further question, please feel free to ask me or one of
+last years mentors. I look forward to hearing from you.
+
+Best
+Daniel Cicala
+
+--------------------------------------------------------------
+--------------------------------------------------------------
