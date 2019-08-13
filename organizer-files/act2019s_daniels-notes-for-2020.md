@@ -2,6 +2,11 @@
 
 ## My personal observations
 
+* Do the group photo at the beginning of the in-person
+  week. People leave midway thorugh the week. Maybe have it
+  just after the very first orientation meeting to get it ot
+  of the way.
+
 * No more than 5 groups. 6 was definitely too many.
 
 * Ensure diversity wrt gender, ethnicity, sexual
